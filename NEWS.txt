@@ -4,6 +4,7 @@ Version 7.40 - not yet released
   - FLARM: Add 100m zoom option.
   - hide mouse cursor after 10 seconds of inactivity
   - Move glider icon on thermal assist according to 30s average.
+  - add events for navigating to a temporary Goto waypoint
 * Linux
   - fix the /etc/xcsoar data directory
 * Android
